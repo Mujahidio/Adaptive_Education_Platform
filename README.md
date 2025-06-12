@@ -1,4 +1,4 @@
-# StudyAI - AI-Powered PDF Study Tool
+# Adaptive Education Platform (StudyAI)
 
 StudyAI is a comprehensive web application that transforms PDF documents into interactive study materials using artificial intelligence. Upload your PDFs and automatically generate summaries, flashcards, and quizzes to enhance your learning experience.
 
